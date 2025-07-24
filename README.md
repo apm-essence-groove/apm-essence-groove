@@ -1,5 +1,5 @@
 # APMW Essence Groove
-## Ayurveda Project Management (Essence Grove)
+## Ayurveda Project Management World (Essence Grove)
 ### Hi there 👋
 
 <!--
